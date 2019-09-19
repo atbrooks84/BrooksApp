@@ -7,6 +7,7 @@
 *.config
 key.js
 Configuration.cs
+Migrations/
 
 # User-specific files
 *.rsuser
